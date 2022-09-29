@@ -4,13 +4,13 @@ Este projeto é referente a cursos e minhas experiências de junção de dados e
 
 O projeto está dividido em 4 partes:
 
-### 1. [](https://github.com/AlbertoRodrigues/cleaning_data_in_python/tree/master/1)
+### 1. [Inner Join e Tipos de Relacionamentos entre tabelas](https://github.com/AlbertoRodrigues/joining_data_with_pandas/tree/master/capitulo1)
 
-### 2. [](https://github.com/AlbertoRodrigues/cleaning_data_in_python/tree/master/2)
+### 2. [Left Join, Right Join, Outer Join e Self join](https://github.com/AlbertoRodrigues/joining_data_with_pandas/tree/master/capitulo2)
 
-### 3. [](https://github.com/AlbertoRodrigues/cleaning_data_in_python/tree/master/3.uniformidade_de_datas)
+### 3. [Semi join, Anti Join, Concatenação Vertical e Integridade dos dados](https://github.com/AlbertoRodrigues/joining_data_with_pandas/tree/master/capitulo3)
 
-### 4. [](https://github.com/AlbertoRodrigues/cleaning_data_in_python/tree/master/4)
+### 4. [Join com matchs não exatos, função query e melt](https://github.com/AlbertoRodrigues/joining_data_with_pandas/tree/master/capitulo4)
 
 
 ## Referências 
