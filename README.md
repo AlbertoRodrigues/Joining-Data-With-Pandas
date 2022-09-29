@@ -1,6 +1,6 @@
-# Cleaning data in python
+# Joining data with pandas
 
-Este projeto é referente a cursos e minhas experiências de junção de dados em python.
+Este projeto é referente a cursos e minhas experiências de junção de dados utilizando o pacote pandas do python.
 
 O projeto está dividido em 4 partes:
 
